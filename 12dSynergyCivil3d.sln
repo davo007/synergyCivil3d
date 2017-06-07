@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12dSynergyCivil3d", "12dSynergyCivil3d\12dSynergyCivil3d.csproj", "{1CF0470E-D72C-4089-829F-71242B8B4298}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug Work|Any CPU = Debug Work|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CF0470E-D72C-4089-829F-71242B8B4298}.Debug Work|Any CPU.ActiveCfg = Debug Work|Any CPU
+		{1CF0470E-D72C-4089-829F-71242B8B4298}.Debug Work|Any CPU.Build.0 = Debug Work|Any CPU
+		{1CF0470E-D72C-4089-829F-71242B8B4298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CF0470E-D72C-4089-829F-71242B8B4298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CF0470E-D72C-4089-829F-71242B8B4298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CF0470E-D72C-4089-829F-71242B8B4298}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
