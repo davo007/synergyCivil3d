@@ -7,18 +7,26 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using ScriptTest;
+
 
 namespace _12dSynergyCivil3d
 {
+    
     public partial class UserControl1 : UserControl
     {
-
+        
         const string NO_DATA = "Please add some files";
 
         public UserControl1()
         {
             InitializeComponent();
         }
+
+        //public ScriptTest()
+        //{
+        //    ScriptTest();
+        //}
 
         private void button1_Click(object sender, EventArgs e)
         {

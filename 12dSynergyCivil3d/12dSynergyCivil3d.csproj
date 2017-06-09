@@ -98,6 +98,12 @@
   <ItemGroup>
     <Content Include="ToDo.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\ScriptTest\ScriptTest.csproj">
+      <Project>{42edbcdd-c33c-452b-a641-13e0fa13fb82}</Project>
+      <Name>ScriptTest</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
